@@ -3,6 +3,12 @@ padding:0;
 margin:0;
 color: white;
 }
+::-webkit-scrollbar {
+  width: 0;
+}
+::-webkit-scrollbar {
+  height: 0;
+}
 body {
 font-size: 14px;
 font-family: 'Lexend', sans-serif;
